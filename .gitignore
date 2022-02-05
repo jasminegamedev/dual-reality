@@ -58,3 +58,187 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.ogg
+*.wav
+*.zip
+DualRealityWeb/Build/DualRealityWeb.data
+DualRealityWeb/Build/DualRealityWeb.framework.js
+DualRealityWeb/Build/DualRealityWeb.loader.js
+DualRealityWeb/Build/DualRealityWeb.wasm
+DualRealityWeb/index.html
+DualRealityWeb/TemplateData/favicon.ico
+DualRealityWeb/TemplateData/fullscreen-button.png
+DualRealityWeb/TemplateData/progress-bar-empty-dark.png
+DualRealityWeb/TemplateData/progress-bar-empty-light.png
+DualRealityWeb/TemplateData/progress-bar-full-dark.png
+DualRealityWeb/TemplateData/progress-bar-full-light.png
+DualRealityWeb/TemplateData/style.css
+DualRealityWeb/TemplateData/unity-logo-dark.png
+DualRealityWeb/TemplateData/unity-logo-light.png
+DualRealityWeb/TemplateData/webgl-logo.png
+DualRealityWindows/Dual Reality.exe
+DualRealityWindows/Dual Reality_Data/app.info
+DualRealityWindows/Dual Reality_Data/boot.config
+DualRealityWindows/Dual Reality_Data/globalgamemanagers
+DualRealityWindows/Dual Reality_Data/globalgamemanagers.assets
+DualRealityWindows/Dual Reality_Data/level0
+DualRealityWindows/Dual Reality_Data/level1
+DualRealityWindows/Dual Reality_Data/level10
+DualRealityWindows/Dual Reality_Data/level11
+DualRealityWindows/Dual Reality_Data/level2
+DualRealityWindows/Dual Reality_Data/level3
+DualRealityWindows/Dual Reality_Data/level4
+DualRealityWindows/Dual Reality_Data/level5
+DualRealityWindows/Dual Reality_Data/level6
+DualRealityWindows/Dual Reality_Data/level7
+DualRealityWindows/Dual Reality_Data/level8
+DualRealityWindows/Dual Reality_Data/level9
+DualRealityWindows/Dual Reality_Data/Managed/Assembly-CSharp.dll
+DualRealityWindows/Dual Reality_Data/Managed/Mono.Security.dll
+DualRealityWindows/Dual Reality_Data/Managed/mscorlib.dll
+DualRealityWindows/Dual Reality_Data/Managed/netstandard.dll
+DualRealityWindows/Dual Reality_Data/Managed/Newtonsoft.Json.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.ComponentModel.Composition.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Configuration.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Core.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Data.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Diagnostics.StackTrace.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Drawing.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.EnterpriseServices.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Globalization.Extensions.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.IO.Compression.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.IO.Compression.FileSystem.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Net.Http.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Numerics.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Runtime.Serialization.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Runtime.Serialization.Xml.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.ServiceModel.Internals.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Transactions.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Xml.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Xml.Linq.dll
+DualRealityWindows/Dual Reality_Data/Managed/System.Xml.XPath.XDocument.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.2D.Animation.Runtime.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.2D.Animation.Triangle.Runtime.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.2D.Common.Runtime.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.2D.IK.Runtime.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.2D.PixelPerfect.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.2D.SpriteShape.Runtime.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.InternalAPIEngineBridge.001.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.Mathematics.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.TextMeshPro.dll
+DualRealityWindows/Dual Reality_Data/Managed/Unity.Timeline.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.AccessibilityModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.AIModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.AndroidJNIModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.AnimationModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ARModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.AssetBundleModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.AudioModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ClothModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ClusterInputModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ClusterRendererModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.CoreModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.CrashReportingModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.DirectorModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.DSPGraphModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.GameCenterModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.GIModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.GridModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.HotReloadModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ImageConversionModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.IMGUIModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.InputLegacyModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.InputModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.JSONSerializeModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.LocalizationModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ParticleSystemModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.Physics2DModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.PhysicsModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ProfilerModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.SharedInternalsModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.SpriteMaskModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.SpriteShapeModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.StreamingModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.SubstanceModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.SubsystemsModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.TerrainModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.TextCoreModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.TextRenderingModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.TilemapModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.TLSModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UI.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UIElementsModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UIElementsNativeModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UIModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UmbraModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UNETModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityConnectModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityCurlModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.VehiclesModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.VFXModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.VideoModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.VRModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.WindModule.dll
+DualRealityWindows/Dual Reality_Data/Managed/UnityEngine.XRModule.dll
+DualRealityWindows/Dual Reality_Data/Resources/unity default resources
+DualRealityWindows/Dual Reality_Data/Resources/unity_builtin_extra
+DualRealityWindows/Dual Reality_Data/RuntimeInitializeOnLoads.json
+DualRealityWindows/Dual Reality_Data/ScriptingAssemblies.json
+DualRealityWindows/Dual Reality_Data/sharedassets0.assets
+DualRealityWindows/Dual Reality_Data/sharedassets0.assets.resS
+DualRealityWindows/Dual Reality_Data/sharedassets0.resource
+DualRealityWindows/Dual Reality_Data/sharedassets1.assets
+DualRealityWindows/Dual Reality_Data/sharedassets1.assets.resS
+DualRealityWindows/Dual Reality_Data/sharedassets1.resource
+DualRealityWindows/Dual Reality_Data/sharedassets10.assets
+DualRealityWindows/Dual Reality_Data/sharedassets11.assets
+DualRealityWindows/Dual Reality_Data/sharedassets11.resource
+DualRealityWindows/Dual Reality_Data/sharedassets2.assets
+DualRealityWindows/Dual Reality_Data/sharedassets2.resource
+DualRealityWindows/Dual Reality_Data/sharedassets3.assets
+DualRealityWindows/Dual Reality_Data/sharedassets3.resource
+DualRealityWindows/Dual Reality_Data/sharedassets4.assets
+DualRealityWindows/Dual Reality_Data/sharedassets4.resource
+DualRealityWindows/Dual Reality_Data/sharedassets5.assets
+DualRealityWindows/Dual Reality_Data/sharedassets6.assets
+DualRealityWindows/Dual Reality_Data/sharedassets6.resource
+DualRealityWindows/Dual Reality_Data/sharedassets7.assets
+DualRealityWindows/Dual Reality_Data/sharedassets8.assets
+DualRealityWindows/Dual Reality_Data/sharedassets8.resource
+DualRealityWindows/Dual Reality_Data/sharedassets9.assets
+DualRealityWindows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+DualRealityWindows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+DualRealityWindows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+DualRealityWindows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+DualRealityWindows/MonoBleedingEdge/etc/mono/2.0/machine.config
+DualRealityWindows/MonoBleedingEdge/etc/mono/2.0/settings.map
+DualRealityWindows/MonoBleedingEdge/etc/mono/2.0/web.config
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.0/machine.config
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.0/settings.map
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.0/web.config
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.5/machine.config
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.5/settings.map
+DualRealityWindows/MonoBleedingEdge/etc/mono/4.5/web.config
+DualRealityWindows/MonoBleedingEdge/etc/mono/browscap.ini
+DualRealityWindows/MonoBleedingEdge/etc/mono/config
+DualRealityWindows/MonoBleedingEdge/etc/mono/mconfig/config.xml
+DualRealityWindows/UnityCrashHandler64.exe
+DualRealityWindows/UnityPlayer.dll
